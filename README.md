@@ -25,21 +25,18 @@ This repository showcases my hands-on projects demonstrating strong skills in **
 
 ## 📁 Projects
 
-### 🔹 1. Retail Sales & Payments Analysis (SQL)
-📌 *MySQL | Advanced SQL | Window Functions*
 
-**Description:**  
-Analyzed customer purchases, product performance, and payment behavior to identify revenue drivers, trends, and business insights.
+### 🔹 1. Retail Sales & Payments Analysis (MySQL)
+📌 **Skills:** JOINs • Subqueries • Window Functions • ROLLUP • Data Quality Checks  
+📌 **Tools:** MySQL
 
-**Key Highlights:**
-- 20+ advanced SQL queries
-- Multi-table JOINs (customers, orders, products, payments)
-- Window functions (Top-N, Running Totals, Rankings)
-- Revenue analysis by city, category, payment status
-- Fully reproducible project with schema & sample data
+**What I did**
+- Built a reproducible retail dataset (customers, products, orders, payments)
+- Wrote **20+ business-focused SQL queries**
+- Analyzed revenue by city/category, payment performance, and monthly trends
+- Used window functions for ranking, top-N analysis, and running totals
 
-📂 **Project Folder:**  
-➡️ [sql-retail-analysis](./sql-retail-analysis)
+➡️ **Project Link:** [sql-retail-analysis](./sql-retail-analysis)
 
 ---
 
