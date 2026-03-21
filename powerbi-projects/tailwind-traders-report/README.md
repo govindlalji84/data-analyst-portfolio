@@ -62,7 +62,7 @@ The Profit report focuses on revenue generation and profitability insights.
 
 ## 📁 Files Included
 - `Tailwind Traders Dashboard.pbix`
-- `dashboard.png`
+- `Tailwind Traders Executive Dashboard.png`
 - `Countries.xlsx`
 -  `Purchases.xlsx`
 -  `Tailwind-Traders-Sales.xlsx`
