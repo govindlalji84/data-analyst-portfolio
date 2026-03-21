@@ -64,8 +64,11 @@ The Profit report focuses on revenue generation and profitability insights.
 ## 📁 Files Included
 - `Tailwind Traders Report.pbix`
 - `dashboard.png`
+- `Countries.xlsx`
+-  `Purchases.xlsx`
+-  `Tailwind-Traders-Sales.xlsx`
 
----
+
 
 ## 💡 Key Business Insights
 - UK and USA contribute significantly to loyalty points and revenue.
