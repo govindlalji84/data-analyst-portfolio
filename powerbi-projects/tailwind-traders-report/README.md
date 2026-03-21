@@ -11,7 +11,7 @@ The report is divided into two main dashboards:
 ---
 
 ## 📸 Dashboard Preview
-![Tailwind Traders Executive Dashboard](Tailwind Traders Executive Dashboard.png)
+![Dashboard](Tailwind Traders Executive Dashboard.png)
 
 ---
 
