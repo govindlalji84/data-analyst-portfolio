@@ -12,7 +12,6 @@ The report is divided into two main dashboards:
 
 ## 📸 Dashboard Preview
 ![Dashboard](Tailwind Traders Executive Dashboard.png)
-
 ---
 
 ## 🎯 Business Objectives
